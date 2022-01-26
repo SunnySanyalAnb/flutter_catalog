@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-class Homepage extends StatelessWidget {
+class HomePage extends StatelessWidget {
   final int days = 30;
   final String name = "Coding Deparment";
-  const Homepage({Key? key}) : super(key: key);
+  //const Homepage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
